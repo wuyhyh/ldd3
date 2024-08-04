@@ -2,6 +2,8 @@
 *.sw[a-z]
 *.un~
 Session.vim
+.idea/
+linux-6.6.43/
 
 # make file
 .*
